@@ -1,0 +1,54 @@
+.Button {
+  text-align: center;
+  border-radius: 60%; 
+  width: 50px; 
+  height:50px;
+  background: white;
+  color: #6db4f7;
+  font-weight: bold;
+  display: inline-block;
+  font-size: 20px;
+  margin-top: 8px;
+  margin-left:16px;
+  padding-right: 5px;
+  padding-top: 2px;
+  transition: all 0.2s ease-in-out;
+  border: none;
+}
+
+.Button:focus {
+  outline: 0px;
+}
+
+.Button:active {
+  opacity: 0.5;
+}
+
+.WhiteButton {
+  background-color: white;
+}
+
+.BlueButton {
+  color: white;
+  background-color: #6db4f7;
+  }
+
+.LargeButton {
+  color: white;
+  width: 120px;
+  text-align: left;
+  padding-left: 12%;
+  border-radius: 30px;
+  padding-right: 35px;
+  text-align: center;
+  background-color: #6db4f7;
+}
+
+.Button:hover {
+  background: #b0e7ff;
+}
+
+.Button.BlueButton:hover {
+  background: white;
+  color: #6db4f7;
+}
