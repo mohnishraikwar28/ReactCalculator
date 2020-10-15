@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mohnishraikwar28/ReactCalculatorTask/static/css/main.15da0584.chunk.css",
+    "main.js": "/mohnishraikwar28/ReactCalculatorTask/static/js/main.d38f9f75.chunk.js",
+    "main.js.map": "/mohnishraikwar28/ReactCalculatorTask/static/js/main.d38f9f75.chunk.js.map",
+    "runtime-main.js": "/mohnishraikwar28/ReactCalculatorTask/static/js/runtime-main.d3fd345c.js",
+    "runtime-main.js.map": "/mohnishraikwar28/ReactCalculatorTask/static/js/runtime-main.d3fd345c.js.map",
+    "static/js/2.97c0a881.chunk.js": "/mohnishraikwar28/ReactCalculatorTask/static/js/2.97c0a881.chunk.js",
+    "static/js/2.97c0a881.chunk.js.map": "/mohnishraikwar28/ReactCalculatorTask/static/js/2.97c0a881.chunk.js.map",
+    "index.html": "/mohnishraikwar28/ReactCalculatorTask/index.html",
+    "precache-manifest.63d45636187e40941c17f368bfaccf2c.js": "/mohnishraikwar28/ReactCalculatorTask/precache-manifest.63d45636187e40941c17f368bfaccf2c.js",
+    "service-worker.js": "/mohnishraikwar28/ReactCalculatorTask/service-worker.js",
+    "static/css/main.15da0584.chunk.css.map": "/mohnishraikwar28/ReactCalculatorTask/static/css/main.15da0584.chunk.css.map",
+    "static/js/2.97c0a881.chunk.js.LICENSE.txt": "/mohnishraikwar28/ReactCalculatorTask/static/js/2.97c0a881.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3fd345c.js",
+    "static/js/2.97c0a881.chunk.js",
+    "static/css/main.15da0584.chunk.css",
+    "static/js/main.d38f9f75.chunk.js"
+  ]
+}
